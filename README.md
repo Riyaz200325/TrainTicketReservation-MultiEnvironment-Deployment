@@ -20,7 +20,28 @@ The pipeline automates the application build and deployment process across multi
 
 ## 🏗️ Architecture
 
-Developer → GitHub Repository → GitHub Actions → Maven Build → WAR Artifact → Tomcat on AWS EC2 → Deployed Application
+Developer
+   |
+   v
+GitHub Repository
+   |
+   v
+GitHub Actions
+   |
+   v
+Maven Build
+   |
+   v
+WAR Artifact
+   |
+   v
+AWS EC2 (Ubuntu)
+   |
+   v
+Apache Tomcat
+   |
+   v
+Train Ticket Reservation Application
 
 ## ⚙️ CI/CD Workflow
 
