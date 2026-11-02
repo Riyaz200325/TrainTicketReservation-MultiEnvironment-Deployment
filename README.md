@@ -77,3 +77,17 @@ Sensitive credentials are not included in the source code.
 **Riyaz Shaik**
 
 GitHub: [Riyaz200325](https://github.com/Riyaz200325)
+
+## 📸 Project Screenshots
+
+### Application Login Page
+![Application Login](screenshots/application-login.png)
+
+### Tomcat Manager
+![Tomcat Manager](screenshots/tomcat-manager.png)
+
+### Application Deployed on Tomcat
+![Application Deployed](screenshots/application-deployed.png)
+
+### GitHub Actions CI/CD Pipeline
+![GitHub Actions Success](screenshots/github-actions-success.png)
